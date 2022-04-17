@@ -1,0 +1,23 @@
+{
+  "name": "random-names-spoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan Pablo Altamirano Flores <jan080599xd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.2",
+    "webpack": "^5.72.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.13.0"
+  },
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
